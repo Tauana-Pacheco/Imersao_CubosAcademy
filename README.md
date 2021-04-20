@@ -1,2 +1,2 @@
 # imers-o_CubosAcademy
-Modelo básico de portfólio 
+Modelo de portfólio simples
